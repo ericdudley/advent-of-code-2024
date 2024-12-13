@@ -1,0 +1,14 @@
+{
+  "name": "advent_of_code_2024_day_2",
+  "module": "solution.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "prettier": "^3.4.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+  }
+}

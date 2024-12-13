@@ -1,0 +1,11 @@
+[package]
+name = "day_3"
+version = "0.1.0"
+edition = "2021"
+
+
+[[bin]]
+name = "day_3"
+path = "solution.rs"
+
+[dependencies]
